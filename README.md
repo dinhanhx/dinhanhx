@@ -5,8 +5,6 @@
 
 - ⚡ Quote **No mission is too big, no merit is too small**
 
-- [My actual porfolio](https://dinhanhx.github.io/such-good-portfolio/portfolio.html)
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dinhanhx&show_icons=true&theme=dark" alt="dinhanhx" /> </p>
 
 <p align="center">
